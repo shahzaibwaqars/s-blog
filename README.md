@@ -1,0 +1,6 @@
+# RUBY ON RAILS DEMO
+
+## IT ENTERPRENEURSHIP
+
+### BLOG Project
+
